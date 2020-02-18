@@ -1,0 +1,182 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="53ca726f-257f-4554-8016-1168dc173eeb" name="Default Changelist" comment="" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="ExternalProjectsData">
+    <projectState path="$PROJECT_DIR$">
+      <ProjectState />
+    </projectState>
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="JUnit4 Test Class" />
+      </list>
+    </option>
+  </component>
+  <component name="ProjectId" id="1XtvXam6ib5YLzgVZzqmj7i2jJr" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showExcludedFiles" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">
+    <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="aspect.path.notification.shown" value="true" />
+    <property name="com.android.tools.idea.instantapp.provision.ProvisionBeforeRunTaskProvider.myTimeStamp" value="1553169999785" />
+    <property name="com.intellij.testIntegration.createTest.CreateTestDialog.defaultLibrary" value="JUnit4" />
+    <property name="com.intellij.testIntegration.createTest.CreateTestDialog.defaultLibrarySuperClass.JUnit4" value="" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$" />
+    <property name="node.js.detected.package.eslint" value="true" />
+    <property name="node.js.detected.package.tslint" value="true" />
+    <property name="node.js.path.for.package.eslint" value="project" />
+    <property name="node.js.path.for.package.tslint" value="project" />
+    <property name="node.js.selected.package.eslint" value="(autodetect)" />
+    <property name="node.js.selected.package.tslint" value="(autodetect)" />
+    <property name="project.structure.last.edited" value="Modules" />
+    <property name="project.structure.proportion" value="0.0" />
+    <property name="project.structure.side.proportion" value="0.0" />
+  </component>
+  <component name="RecentsManager">
+    <key name="CreateTestDialog.RecentsKey">
+      <recent name="" />
+    </key>
+    <key name="CreateTestDialog.Recents.Supers">
+      <recent name="" />
+    </key>
+  </component>
+  <component name="RunManager" selected="Android JUnit.BasicStatisticTest">
+    <configuration name="BasicStatisticTest" type="AndroidJUnit" factoryName="Android JUnit" temporary="true" nameIsGenerated="true">
+      <module name="t2_test" />
+      <option name="PACKAGE_NAME" value="" />
+      <option name="MAIN_CLASS_NAME" value="BasicStatisticTest" />
+      <option name="TEST_OBJECT" value="class" />
+      <option name="WORKING_DIRECTORY" value="$MODULE_DIR$" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="BasicStatisticTest.numberOfDataItemsShouldReturnTheCurrentAmountOfItemsInList" type="AndroidJUnit" factoryName="Android JUnit" temporary="true" nameIsGenerated="true">
+      <module name="t2_test" />
+      <option name="PACKAGE_NAME" value="" />
+      <option name="MAIN_CLASS_NAME" value="BasicStatisticTest" />
+      <option name="METHOD_NAME" value="numberOfDataItemsShouldReturnTheCurrentAmountOfItemsInList" />
+      <option name="TEST_OBJECT" value="method" />
+      <option name="WORKING_DIRECTORY" value="$MODULE_DIR$" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="BasicStatisticTest.sumShouldReturnTheSumOFAllItemsInDataList" type="AndroidJUnit" factoryName="Android JUnit" temporary="true" nameIsGenerated="true">
+      <module name="t2_test" />
+      <option name="PACKAGE_NAME" value="" />
+      <option name="MAIN_CLASS_NAME" value="BasicStatisticTest" />
+      <option name="METHOD_NAME" value="sumShouldReturnTheSumOFAllItemsInDataList" />
+      <option name="TEST_OBJECT" value="method" />
+      <option name="WORKING_DIRECTORY" value="$MODULE_DIR$" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="BasicStatisticTest.clearItemsShouldSetDataListToZero" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+      <module name="t2_test" />
+      <option name="PACKAGE_NAME" value="" />
+      <option name="MAIN_CLASS_NAME" value="BasicStatisticTest" />
+      <option name="METHOD_NAME" value="clearItemsShouldSetDataListToZero" />
+      <option name="TEST_OBJECT" value="method" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <recent_temporary>
+      <list>
+        <item itemvalue="Android JUnit.BasicStatisticTest" />
+        <item itemvalue="Android JUnit.BasicStatisticTest.sumShouldReturnTheSumOFAllItemsInDataList" />
+        <item itemvalue="Android JUnit.BasicStatisticTest.numberOfDataItemsShouldReturnTheCurrentAmountOfItemsInList" />
+        <item itemvalue="JUnit.BasicStatisticTest.clearItemsShouldSetDataListToZero" />
+      </list>
+    </recent_temporary>
+  </component>
+  <component name="SvnConfiguration">
+    <configuration />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="53ca726f-257f-4554-8016-1168dc173eeb" name="Default Changelist" comment="" />
+      <created>1553165646435</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1553165646435</updated>
+      <workItem from="1581878247285" duration="5983000" />
+      <workItem from="1581888560275" duration="9256000" />
+      <workItem from="1582032933864" duration="252000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="1" />
+  </component>
+  <component name="WindowStateProjectService">
+    <state x="322" y="90" key="#Project_Structure" timestamp="1581878822341">
+      <screen x="0" y="0" width="1458" height="864" />
+    </state>
+    <state x="322" y="90" key="#Project_Structure/0.0.1458.864@0.0.1458.864" timestamp="1581878822341" />
+    <state x="184" y="87" key="#com.intellij.execution.impl.EditConfigurationsDialog" timestamp="1581878394719">
+      <screen x="0" y="0" width="1458" height="864" />
+    </state>
+    <state x="184" y="87" key="#com.intellij.execution.impl.EditConfigurationsDialog/0.0.1458.864@0.0.1458.864" timestamp="1581878394719" />
+    <state x="535" y="141" key="#com.intellij.ide.util.MemberChooser" timestamp="1581885118251">
+      <screen x="0" y="0" width="1458" height="864" />
+    </state>
+    <state x="535" y="141" key="#com.intellij.ide.util.MemberChooser/0.0.1458.864@0.0.1458.864" timestamp="1581885118251" />
+    <state x="509" y="187" key="FileChooserDialogImpl" timestamp="1581928743428">
+      <screen x="0" y="0" width="1458" height="864" />
+    </state>
+    <state x="509" y="187" key="FileChooserDialogImpl/0.0.1458.864@0.0.1458.864" timestamp="1581928743428" />
+    <state width="1342" height="208" key="GridCell.Tab.0.bottom" timestamp="1581931861141">
+      <screen x="0" y="0" width="1458" height="864" />
+    </state>
+    <state width="1342" height="208" key="GridCell.Tab.0.bottom/0.0.1458.864@0.0.1458.864" timestamp="1581931861141" />
+    <state width="1342" height="208" key="GridCell.Tab.0.center" timestamp="1581931861141">
+      <screen x="0" y="0" width="1458" height="864" />
+    </state>
+    <state width="1342" height="208" key="GridCell.Tab.0.center/0.0.1458.864@0.0.1458.864" timestamp="1581931861141" />
+    <state width="1342" height="208" key="GridCell.Tab.0.left" timestamp="1581931861141">
+      <screen x="0" y="0" width="1458" height="864" />
+    </state>
+    <state width="1342" height="208" key="GridCell.Tab.0.left/0.0.1458.864@0.0.1458.864" timestamp="1581931861141" />
+    <state width="1342" height="208" key="GridCell.Tab.0.right" timestamp="1581931861141">
+      <screen x="0" y="0" width="1458" height="864" />
+    </state>
+    <state width="1342" height="208" key="GridCell.Tab.0.right/0.0.1458.864@0.0.1458.864" timestamp="1581931861141" />
+    <state width="1342" height="258" key="GridCell.Tab.1.bottom" timestamp="1581931861137">
+      <screen x="0" y="0" width="1458" height="864" />
+    </state>
+    <state width="1342" height="258" key="GridCell.Tab.1.bottom/0.0.1458.864@0.0.1458.864" timestamp="1581931861137" />
+    <state width="1342" height="258" key="GridCell.Tab.1.center" timestamp="1581931861137">
+      <screen x="0" y="0" width="1458" height="864" />
+    </state>
+    <state width="1342" height="258" key="GridCell.Tab.1.center/0.0.1458.864@0.0.1458.864" timestamp="1581931861137" />
+    <state width="1342" height="258" key="GridCell.Tab.1.left" timestamp="1581931861137">
+      <screen x="0" y="0" width="1458" height="864" />
+    </state>
+    <state width="1342" height="258" key="GridCell.Tab.1.left/0.0.1458.864@0.0.1458.864" timestamp="1581931861137" />
+    <state width="1342" height="258" key="GridCell.Tab.1.right" timestamp="1581931861137">
+      <screen x="0" y="0" width="1458" height="864" />
+    </state>
+    <state width="1342" height="258" key="GridCell.Tab.1.right/0.0.1458.864@0.0.1458.864" timestamp="1581931861137" />
+    <state x="431" y="256" key="com.intellij.ide.util.TipDialog" timestamp="1582032929687">
+      <screen x="0" y="0" width="1458" height="864" />
+    </state>
+    <state x="431" y="256" key="com.intellij.ide.util.TipDialog/0.0.1458.864@0.0.1458.864" timestamp="1582032929687" />
+    <state x="501" y="135" key="com.intellij.testIntegration.createTest.CreateTestDialog" timestamp="1581892453199">
+      <screen x="0" y="0" width="1458" height="864" />
+    </state>
+    <state x="501" y="135" key="com.intellij.testIntegration.createTest.CreateTestDialog/0.0.1458.864@0.0.1458.864" timestamp="1581892453199" />
+  </component>
+</project>
